@@ -9,4 +9,6 @@
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to launch the application.
 5. Run `npm run dist` to build to project.
-6. If don't want to build run the setup from `dist/HackerGPT-2.0 AI Setup 2.0.0`
+
+# References
+This project has been developed with inspiration from ['HackerGPT-2.0'](https://github.com/Hacker-GPT/HackerGPT-2.0) to facilitate ease of use for users
