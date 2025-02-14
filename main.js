@@ -11,7 +11,7 @@ function createWindow() {
     autoHideMenuBar: true
   });
 
-  mainWindow.loadURL('https://chat.hackerai.co');
+  mainWindow.loadURL('https://pentestgpt.ai/');
 }
 
 function createTray() {
